@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <h1>LitterGetter</h1>
@@ -33,7 +32,7 @@
   
   <p>Please note that location information, if provided, is not utilized in any other way and will not be stored or retained.</p>
   
-  <p>If you have any further questions or concerns, please feel free to contact us at support@littergetter.com.</p>
+  <p>If you have any further questions or concerns, please feel free to contact us at littergetterapp@gmail.com.</p>
   
   <p>Thank you,</p>
   <p>Brady Boyd</p>
