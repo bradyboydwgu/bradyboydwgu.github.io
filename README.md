@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>LitterGetter - Account Deletion Request</title>
-</head>
-<body>
   <h1>LitterGetter</h1>
   <h1>Developer: Brady Boyd</h1>
   <h2>Account Deletion Request</h2>
+</head>
+<body>
+  
   
   <p>Hello,</p>
   
